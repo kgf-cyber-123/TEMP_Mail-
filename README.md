@@ -3,19 +3,22 @@
 <div align="center">
 
   <!-- Logo/Header Image -->
-  <img src="https://github.com/kgf-cyber-123/TEMP_Mail-/blob/main/1786655844976.png" alt="TEMP Mail Banner" width="100%" style="border-radius: 10px;" />
+  <img src="https://raw.githubusercontent.com/kgf-cyber-123/TEMP_Mail-/main/1786655844976.png" alt="TEMP Mail Banner" width="100%" style="border-radius: 10px;" />
 
   <br/><br/>
 
   <h1>📧 TEMP MAIL GENERATOR 📧</h1>
   <p><b>আপনার ব্যক্তিগত ইমেইল নিরাপদ রাখুন এবং মুহূর্তের মধ্যে আনলিমিটেড ডিসপোজেবল ইমেইল তৈরি করুন!</b></p>
 
-  <!-- Badges -->
+  <!-- Badges & Live Visitor Counter -->
   <p>
     <img src="https://img.shields.io/github/stars/kgf-cyber-123/TEMP_Mail-?style=for-the-badge&color=ff0055" alt="Stars"/>
     <img src="https://img.shields.io/github/forks/kgf-cyber-123/TEMP_Mail-?style=for-the-badge&color=00d2ff" alt="Forks"/>
     <img src="https://img.shields.io/badge/Language-Python-yellow?style=for-the-badge&logo=python" alt="Python"/>
     <img src="https://img.shields.io/badge/Environment-Termux%20%2F%20Linux-green?style=for-the-badge&logo=gnu-bash" alt="Environment"/>
+    <br/>
+    <!-- 👁️ LIVE VISITOR COUNTER BADGE 👁️ -->
+    <img src="https://komarev.com/ghpvc/?username=kgf-cyber-123-TEMP_Mail-&label=Repo%20Views&color=0e75dd&style=for-the-badge" alt="Repository Views"/>
   </p>
 
 </div>
@@ -26,7 +29,7 @@
 
 **TEMP MAIL** হলো একটি টার্মিনাল-ভিত্তিক (CLI) পাওয়ারফুল পাইথন টুল, যার মাধ্যমে আপনি কোনো ঝামেলা ছাড়াই তাত্ক্ষণিক ভুয়া বা অস্থায়ী (Temporary) ইমেইল এড্রেস তৈরি করতে পারবেন। 
 
-বিভিন্ন ওয়েবসাইট বা সার্ভিসে সাইন-আপ করার সময় আসল ইমেইল না দিয়ে এই টুলের তৈরিTemp Mail ব্যবহার করে স্প্যাম, ফিশিং এবং অপ্রয়োজনীয় ইমেইল থেকে নিজের ব্যক্তিগত ইনবক্স সুরক্ষিত রাখুন!
+বিভিন্ন ওয়েবসাইট বা সার্ভিসে সাইন-আপ করার সময় আসল ইমেইল না দিয়ে এই টুলের তৈরি Temp Mail ব্যবহার করে স্প্যাম, ফিশিং এবং অপ্রয়োজনীয় ইমেইল থেকে নিজের ব্যক্তিগত ইনবক্স সুরক্ষিত রাখুন!
 
 ### 🚀 মূল বৈশিষ্ট্যসমূহ (Features)
 * ⚡ **ইনস্ট্যান্ট ইমেইল জেনারেশন:** মাত্র এক ক্লিকেই নতুন ইমেইল তৈরি।
