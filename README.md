@@ -46,5 +46,5 @@
 ### 1️⃣ রিপোজিটোরি ক্লোন করুন (Clone Repository)
 ```bash
 git clone https://github.com/kgf-cyber-123/TEMP_Mail-.git
-cd TEMP_Mail
+cd TEMP_Mail-
 python Mack-Mail.py
